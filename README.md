@@ -10,9 +10,9 @@ Freedom Debt Relief (FDR) is a company that specializes in debt settlement servi
 
 
 ## Concept Used:
-Bi-Variate Analysis
-uni variate Analysis
-Hypothesis Testing.
-visualization for taking insights.
-Relationship between Features
+* Bi-Variate Analysis
+* uni variate Analysis
+* Hypothesis Testing.
+* visualization for taking insights.
+* Relationship between Features
 
